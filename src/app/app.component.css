@@ -1,0 +1,6 @@
+
+  .popover{
+    max-width: 70%; /* Max Width of the popover (depending on the container!) */
+   /*max-height:  50%;*/
+   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
